@@ -1,0 +1,20 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "frontend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('hello');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agapovk/frontend-project-lvl1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agapovk/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/agapovk/frontend-project-lvl1#readme",
+  "type": "module"
+}
