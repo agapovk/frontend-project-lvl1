@@ -1,5 +1,6 @@
 {
   "name": "@hexlet/code",
+  "type": "module",
   "version": "1.0.0",
   "description": "frontend project",
   "main": "index.js",
@@ -16,8 +17,11 @@
     "url": "https://github.com/agapovk/frontend-project-lvl1/issues"
   },
   "homepage": "https://github.com/agapovk/frontend-project-lvl1#readme",
-  "type": "module",
+
   "bin": {
     "brain-games": "bin/brain-games.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }
