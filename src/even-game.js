@@ -1,5 +1,5 @@
 import readlineSync from 'readline-sync';
-import getRandomInt from '../src/random-number.js';
+import getRandomInt from './random-number.js';
 
 // Функция проверки числа на четность
 const isEven = (int) => {
