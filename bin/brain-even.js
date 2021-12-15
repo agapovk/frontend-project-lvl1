@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import readlineSync from 'readline-sync';
-import getRandomInt from '../src/random-number.js'
+import getRandomInt from '../src/random-number.js';
 
 // Функция проверки числа на четность
 const isEven = (int) => {
@@ -26,7 +26,7 @@ const evenGame = () => {
   // Цикл с вопросами
   for (let i = 0; i < rounds; i += 1) {
     // Задаем случайное число
-    const num = getRandomInt(1, 100) 
+    const num = getRandomInt(1, 100);
 
     // Задаем вопрос
     console.log(`Question: ${num}`);
