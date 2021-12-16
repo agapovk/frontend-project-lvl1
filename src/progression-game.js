@@ -33,8 +33,9 @@ const progressionGame = () => {
     const rightAnswer = arr[`${hideElement}`];
     // eslint-disable-next-line no-unused-vars
     const removed = arr.splice(hideElement, 1, '..');
+    const arrString = arr.join(' ');
     // Задаем вопрос
-    console.log(`Question: ${arr}`);
+    console.log(`Question: ${arrString}`);
 
     // Спрашиваем ответ
     const userAnswer = readlineSync.question('Your answer: ');
