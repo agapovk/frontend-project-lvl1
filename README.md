@@ -19,3 +19,7 @@
 ## Prime-game
 
 [![asciicast](https://asciinema.org/a/aWJzDimkbeE4AXVm8gX2lxnvm.svg)](https://asciinema.org/a/aWJzDimkbeE4AXVm8gX2lxnvm)
+
+## Calc-game
+
+[![asciicast](https://asciinema.org/a/wXD6fCC178Hi8AYmgesD6mwcE.svg)](https://asciinema.org/a/wXD6fCC178Hi8AYmgesD6mwcE)
