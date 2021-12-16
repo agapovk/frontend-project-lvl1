@@ -48,7 +48,7 @@ const progressionGame = () => {
       return;
     }
   }
-  console.log(`Congratulations, ${userName}`);
+  console.log(`Congratulations, ${userName}!`);
 };
 
 export default progressionGame;
