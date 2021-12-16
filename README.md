@@ -8,6 +8,10 @@
 
 [![asciicast](https://asciinema.org/a/zEQNu6elHXVEkPI4Cp4BwLNEn.svg)](https://asciinema.org/a/zEQNu6elHXVEkPI4Cp4BwLNEn)
 
-## GCD-game
+## GreatestCommonDivisor-game
 
 [![asciicast](https://asciinema.org/a/PUzUDR9AzW5qxhBfgI5PQjvd6.svg)](https://asciinema.org/a/PUzUDR9AzW5qxhBfgI5PQjvd6)
+
+## Progression-game
+
+[![asciicast](https://asciinema.org/a/n17akDOlPStAOBflSAs4gRysd.svg)](https://asciinema.org/a/n17akDOlPStAOBflSAs4gRysd)
