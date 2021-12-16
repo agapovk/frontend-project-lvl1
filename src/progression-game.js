@@ -31,6 +31,7 @@ const progressionGame = () => {
     const arr = progressionGenerator();
     const hideElement = getRandomInt(0, arr.length);
     const rightAnswer = arr[`${hideElement}`];
+    // eslint-disable-next-line no-unused-vars
     const removed = arr.splice(hideElement, 1, '..');
     // Задаем вопрос
     console.log(`Question: ${arr}`);
